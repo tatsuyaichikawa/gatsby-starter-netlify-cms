@@ -12,4 +12,4 @@ tags:
 
 * kigyousite
 
-![](/img/143449mb.jpg)
+![null](/img/143449mb.jpg)
